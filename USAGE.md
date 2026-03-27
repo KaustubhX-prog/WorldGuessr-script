@@ -18,7 +18,7 @@
 5. Tampermonkey will add the script automatically.
 
 ### Step 4: Run for Testing
-- Navigate to the site where the script logic applies.
+- Navigate to the WorldGuessr where the script logic applies.
 - Tampermonkey will inject the script.
 - Observe how it behaves — but **do not use it for cheating**.
 
