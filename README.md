@@ -1,4 +1,4 @@
-# WG Educational Script
+# WorldGuessr Cheat Script
 
 An educational repository demonstrating how browser-based automation logic can be implemented, inspected, and analyzed for learning and research purposes.
 
