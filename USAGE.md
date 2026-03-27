@@ -7,7 +7,7 @@
 - Search for **Tampermonkey** and install it.
 
 ### Step 2: Download the Script ZIP
-- Go to the <CODE> section of this repository.
+- Go to the < code > section of this repository.
 - Download the latest `wg-script-educational.zip`.
 
 ### Step 3: Import into Tampermonkey
