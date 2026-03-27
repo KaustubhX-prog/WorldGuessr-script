@@ -22,6 +22,14 @@
 - Tampermonkey will inject the script.
 - Observe how it behaves — but **do not use it for cheating**.
 
+## 4. Quick Start
+- Open a supported page
+- The script will auto‑inject via Tampermonkey
+- Use the default keybinds:
+  - **1** → Toggle map overlay
+  - **2** → Open Google Maps in a new tab
+  - **3** → Open settings
+  - **4** → Show location info
 ---
 
 📌 **Note:** This script is shared for educational purposes only. Misuse can lead to account bans or violations of terms of service.
