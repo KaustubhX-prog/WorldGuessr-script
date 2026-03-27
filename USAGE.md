@@ -23,7 +23,7 @@
 - Observe how it behaves — but **do not use it for cheating**.
 
 ## 4. Quick Start
-- Open a supported page
+- Open Worldguessr page
 - The script will auto‑inject via Tampermonkey
 - Use the default keybinds:
   - **1** → Toggle map overlay
