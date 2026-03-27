@@ -64,3 +64,8 @@ Projects like this can be useful for:
 This project is licensed under the **MIT License**.
 
 See the [LICENSE](./LICENSE) file for details.
+
+## Usage
+
+See [Usage instructions](USAGE.md) for details on how to install and test with Tampermonkey.
+
