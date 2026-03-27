@@ -7,53 +7,7 @@ An educational repository demonstrating how browser-based automation logic can b
 
 ---
 
-## Overview
 
-This repository contains a browser userscript designed as a **technical learning example**.
-
-It can be studied to better understand:
-
-- How client-side scripts interact with web pages
-- Keyboard event handling
-- DOM manipulation
-- Overlay UI injection
-- Reading embedded map / iframe data
-- Local storage configuration
-- Reverse geocoding requests
-- How browser automation can be analyzed from both **implementation** and **detection / prevention** perspectives
-
-The purpose of this project is to help learners, developers, and researchers understand how these techniques work in practice so they can better study, debug, or defend against similar logic.
-
----
-
-## Features
-
-- Demonstrates browser userscript structure and lifecycle
-- Shows how keyboard shortcuts can trigger scripted actions
-- Demonstrates page interaction through DOM and iframe inspection
-- Includes configurable UI / settings concepts
-- Useful for studying:
-  - automation logic
-  - client-side behavior
-  - script analysis
-  - detection risks
-  - prevention strategies
-
----
-
-## Documentation
-
-This repository includes a **dedicated page** with:
-
-- usage instructions
-- default keybinds / controls
-- setup guidance
-- script behavior details
-- additional notes and troubleshooting
-
-👉 Please refer to the dedicated documentation page in this repository for full usage details.
-
----
 
 ## Important Notice
 
