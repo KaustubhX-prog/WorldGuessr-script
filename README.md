@@ -1,7 +1,5 @@
-# WorldGuessr-script
-An educational script demonstrating how cheat logic can be implemented and analyzed, shared for learning purposes only.
-
 # WG Educational Cheat Script
+An educational script demonstrating how cheat logic can be implemented and analyzed, shared for learning purposes only.
 
 ## Overview
 This repository contains a script that demonstrates how cheat logic can be implemented and analyzed.  
@@ -18,7 +16,4 @@ This repository contains a script that demonstrates how cheat logic can be imple
 - Useful for analyzing how scripts interact with applications.
 - Can be studied to understand detection risks and prevention strategies.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/wg-script-educational.git
+
