@@ -6,19 +6,20 @@
 - Go to your browser’s extension store (Chrome Web Store, Firefox Add‑ons, Edge Add‑ons).
 - Search for **Tampermonkey** and install it.
 
-### Step 2: Download the Script
-- Click the **Raw** button on the `script.js` file in this repository.
-- Copy the entire code.
+### Step 2: Download the Script ZIP
+- Go to the [Releases](../../releases) section of this repository (or the main repo page if you uploaded the ZIP directly).
+- Download the latest `wg-script-educational.zip`.
 
-### Step 3: Add Script to Tampermonkey
-1. Open Tampermonkey in your browser.
-2. Click **Create a new script**.
-3. Paste the copied code into the editor.
-4. Save the script (File → Save or press `Ctrl+S`).
+### Step 3: Import into Tampermonkey
+1. Extract the ZIP file on your computer.
+2. Open Tampermonkey in your browser.
+3. Click the **Dashboard** → **Utilities** tab.
+4. Under *Import from file*, choose the extracted script file (e.g., `script.js`).
+5. Tampermonkey will add the script automatically.
 
 ### Step 4: Run for Testing
 - Navigate to the site where the script logic applies.
-- Tampermonkey will automatically inject the script.
+- Tampermonkey will inject the script.
 - Observe how it behaves — but **do not use it for cheating**.
 
 ---
